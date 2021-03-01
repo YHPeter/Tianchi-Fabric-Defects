@@ -1,4 +1,4 @@
-# 2021 Tianchi Warm Up Competition TOP 1 (Fabric Defects)  
+# 2021 Tianchi Warm Up Competition (Fabric Defects)  
 
 ### 正当高三寒假，经过了两周的探索，第一次参加天池比赛并使用Docker提交后有以下经验和大家分享。如有错误，一定及时修改！！！
 
